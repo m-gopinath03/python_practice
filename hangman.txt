@@ -1,0 +1,6 @@
+hands
+legs
+laptop
+mouse
+paper
+flight
